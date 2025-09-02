@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonetaNBA</string>
+    <string name="server_error">Server error</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
